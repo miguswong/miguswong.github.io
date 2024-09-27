@@ -1,7 +1,8 @@
 +++
-title = 'My First Post - A brief introduction'
+title = 'A brief introduction about Myself'
 date = 2024-09-27T12:42:39-05:00
 draft = false
+
 +++
 ## Introduction
 

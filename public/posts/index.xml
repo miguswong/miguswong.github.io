@@ -1,29 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Migus Wong</title>
+    <title>Posts on Clarity</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Migus Wong</description>
+    <description>Recent content in Posts on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Fri, 27 Sep 2024 12:42:39 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post - A brief introduction</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Fri, 27 Sep 2024 12:42:39 -0500</pubDate>
-      
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>
-        
-          
-            &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Hey Everyone,&lt;/p&gt;
-&lt;p&gt;My name is Migus Wong. I am creating this website with hugo for my week 2 assignment with for MSDS 431 - Data Engineering with Go! I look forward to adding more content onto the webpage and using this site to track my personal projects.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
   </channel>
 </rss>
