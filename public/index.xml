@@ -9,6 +9,24 @@
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Fri, 27 Sep 2024 12:42:39 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A brief Intro: Migus Wong</title>
+      <link>http://localhost:1313/post/my-first-post/</link>
+      <pubDate>Fri, 27 Sep 2024 12:42:39 -0500</pubDate>
+      
+      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Hey Everyone,&lt;/p&gt;
+&lt;p&gt;My name is Migus Wong. I am creating this website with hugo for my week 2 assignment with for MSDS 431 - Data Engineering with Go! I look forward to adding more content onto the webpage and using this site to track my personal projects.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Using Hugo page bundles</title>
       <link>http://localhost:1313/post/bundle/</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
