@@ -6,10 +6,10 @@
     <description>Recent content on Clarity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 27 Sep 2024 12:42:39 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>MIGUS WONG</copyright>
+    <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A brief Intro: Migus Wong</title>
+      <title>My First Post: Hello World!</title>
       <link>http://localhost:1313/post/my-first-post/</link>
       <pubDate>Fri, 27 Sep 2024 12:42:39 -0500</pubDate>
       
@@ -19,7 +19,8 @@
           
             &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Hey Everyone,&lt;/p&gt;
-&lt;p&gt;My name is Migus Wong. I am creating this website with hugo for my week 2 assignment with for MSDS 431 - Data Engineering with Go! I look forward to adding more content onto the webpage and using this site to track my personal projects.&lt;/p&gt;
+&lt;p&gt;My name is Migus Wong. I am creating this website with hugo for my Week 2 assignment with for &lt;a href=&#34;https://msdsgo.netlify.app/data-engineering-with-go/#:~:text=This%20comprehensive%20introduction%20to%20the%20Go%20programming%20language%20reviews%20data&#34;&gt;MSDS 431 - Data Engineering with Go!&lt;/a&gt; However, this is something that I have been wanting to do for a while so I look forward to adding more content onto the webpage and using this site to track my personal projects personal endeavors.&lt;/p&gt;
+&lt;p&gt;Ultimately, this website was created with the use of &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. While the Hugo community is huge and there is plenty of documentation out there for utilizing git pages and Hugo, I prefer video-style tutorials; this was the one that I followed along with.&lt;/p&gt;
           
           
         

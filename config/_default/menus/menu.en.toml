@@ -4,15 +4,20 @@
   weight = -110
 
 [[main]]
-  name = "Archives"
-  url = "post/rich-content/"
+  name = "About Me"
+  url = "about/"
   weight = -109
+
+[[main]]
+  name = "My Work"
+  url = "myWork/"  
+  weight = -108
 
 # Submenus are done this way: parent -> identifier
 [[main]]
-  name = "Links"
+  name = "Media Links"
   identifier = "Links"
-  weight = -108
+  weight = -107
 [[main]]
   parent = "Links"
   name = "LinkedIn"
@@ -21,10 +26,7 @@
   parent = "Links"
   name = "Github"
   url = "https://github.com/miguswong"
-[[main]]
-  name = "About Me"
-  url = "about/"
-  weight = -107
+
 
 # social menu links
 
@@ -37,6 +39,10 @@
   name = "linkedin"
   weight = 3
   url = "https://www.linkedin.com/in/migus-wong/"
+[[social]]
+name = "rss"
+weight = 4
+url = "index.xml"
 
 
 # other supported social links
