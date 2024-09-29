@@ -10,7 +10,7 @@
 
 [[main]]
   name = "My Work"
-  url = "myWork/"  
+  url = "mywork/"  
   weight = -108
 
 # Submenus are done this way: parent -> identifier
