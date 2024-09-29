@@ -2,12 +2,11 @@
 title = 'My First Post: Hello World!'
 date = 2024-09-27T12:42:39-05:00
 draft = false
-
 tags = [
     "Educational",
     "Personal",
 ]
-
+thumbnail = "images/migpfp_cropped.jpg"
 +++
 ## Introduction
 
