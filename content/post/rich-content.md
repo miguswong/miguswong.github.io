@@ -7,7 +7,7 @@ tags = [
     "shortcodes",
     "privacy",
 ]
-draft = true
+draft = false
 thumbnail = "images/dollar.png"
 
 +++
