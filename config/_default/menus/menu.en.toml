@@ -10,7 +10,7 @@
 
 [[main]]
   name = "My Work"
-  url = "mywork/"  
+  url = "tags/personal-projects//"  
   weight = -108
 
 # Submenus are done this way: parent -> identifier
