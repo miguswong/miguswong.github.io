@@ -5,7 +5,7 @@ draft = false
 tags = [
     "Personal",
 ]
-thumbnail = "images/migpfp_cropped.jpg"
+thumbnail = "images/mwpfp.jpg"
 +++
 ## Introduction
 

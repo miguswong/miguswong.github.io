@@ -9,7 +9,7 @@
     <copyright>MIGUS WONG</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 14:48:13 -0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Webscraping Iroman Triathalon Results</title>
+      <title>Webscraping Ironman Triathalon Results</title>
       <link>http://localhost:1313/post/webscraping_iroman_results/</link>
       <pubDate>Thu, 12 Dec 2024 14:48:13 -0600</pubDate>
       
@@ -18,11 +18,15 @@
         
           
             &lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;Ironman race results data was scraped from a &lt;a href=&#34;https://www.coachcox.co.uk/imstats/&#34;&gt;third-party website&lt;/a&gt; for the purpose of EDA. All the data and code used for extracting results data can be found in the following links:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GitHub Repository&lt;/strong&gt; &lt;a href=&#34;https://github.com/miguswong/IronmanScraper&#34;&gt;here&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Kaggle Dataset&lt;/strong&gt; &lt;a href=&#34;https://www.kaggle.com/datasets/miguswong/ironman-140-6-results-dataset-2002-2024&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;methodology&#34;&gt;Methodology&lt;/h1&gt;
-&lt;h2 id=&#34;series-data&#34;&gt;Series Data&lt;/h2&gt;
-&lt;h2 id=&#34;race-data&#34;&gt;Race Data&lt;/h2&gt;
-&lt;h2 id=&#34;results-data&#34;&gt;Results Data&lt;/h2&gt;
-&lt;h3 id=&#34;the-case-of-parallel-processing-and&#34;&gt;The case of parallel processing and&lt;/h3&gt;
+&lt;p&gt;Web scraping was accomplished mainly through 2 packages within Python:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://beautiful-soup-4.readthedocs.io/en/latest/&#34;&gt;BeautifulSoup4&lt;/a&gt; for statically loaded content.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.selenium.dev/&#34;&gt;Selenium&lt;/a&gt; for dynamic content.&lt;/li&gt;
+&lt;/ul&gt;
           
           
         

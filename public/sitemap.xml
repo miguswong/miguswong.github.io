@@ -8,10 +8,22 @@
     <loc>http://localhost:1313/tags/index/</loc>
     <lastmod>2024-12-12T14:48:13-06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/personal-projects/</loc>
+    <lastmod>2024-12-12T14:48:13-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-12-12T14:48:13-06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/python/</loc>
+    <lastmod>2024-12-12T14:48:13-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sports/</loc>
+    <lastmod>2024-12-12T14:48:13-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-12T14:48:13-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/webscraping/</loc>
     <lastmod>2024-12-12T14:48:13-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/webscraping_iroman_results/</loc>
@@ -31,6 +43,15 @@
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

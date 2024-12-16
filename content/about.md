@@ -28,7 +28,7 @@ automatically drafted.
     <span style="float:right;">
         December 2025 (Expected)
     </span>
-    <li>GPA: 3.850</li><li>Specialization in Artificial Intelligence</li><li>Relevant Coursework: Database Systems, Applied Statistics with R, Data Engineering with Go</li>
+    <li>GPA: 3.850</li><li>Specialization in Data Engineering</li><li>Relevant Coursework: Database Systems, Applied Statistics with R, Data Engineering with Go</li>
 </p>
 <p style="text-align:left;">
     <b>Colorado School of Mines</b>
