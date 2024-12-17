@@ -11,13 +11,13 @@ tags = [
 thumbnail = "images/ironmanlogo.png"
 
 +++
-
-![Ironman Triathalon Logo](/images/ironmanlogo.png)
-# Overview
+# Introduction
 Ironman race results data was scraped from a [third-party website](https://www.coachcox.co.uk/imstats/) for the purpose of EDA. All the data and code used for extracting results data can be found in the following links:
 
 **GitHub Repository** [here](https://github.com/miguswong/IronmanScraper)\
 **Kaggle Dataset** [here](https://www.kaggle.com/datasets/miguswong/ironman-140-6-results-dataset-2002-2024)
+
+![Ironman Triathalon Logo](/images/ironmanlogo.png)
 
 # Overview
 The following files (mainly the Jupyter notebook and Python script) were used to scrape 140.6 Ironman race results ranging from 2002 to 2024 (as of 12-05-2024). Note,  the data was not scraped from the official Ironman website, but a [proxy-website](https://www.coachcox.co.uk/imstats/) not owned by Ironman. 
@@ -72,7 +72,7 @@ print("All CSV files combined successfully!")
 ## Resulting Dataset 
 3 CSVs should be generated at this point and should contain all the relevant information about Ironman results from 2002-2024.
 
-**Series.csv**
+[**Series.csv**](https://www.kaggle.com/datasets/miguswong/ironman-140-6-results-dataset-2002-2024?select=series.csv)
 | Column    | Description                    |
 |-----------|--------------------------------|
 | `id`      | Unique identifier for the series (Primary Key) |
@@ -81,7 +81,7 @@ print("All CSV files combined successfully!")
 | `link`    | URL link to the series details |
 
 
-**Races.csv**
+[**Races.csv**](https://www.kaggle.com/datasets/miguswong/ironman-140-6-results-dataset-2002-2024?select=races.csv)
 | Column           | Description                                |
 |------------------|--------------------------------------------|
 | `year`           | Year of the race                           |
@@ -97,7 +97,7 @@ print("All CSV files combined successfully!")
 | `id`             | Unique identifier for the race (Primary Key)|
 | `seriesID`       | Identifier for the series (Foreign Key)    |
 
-**Results.csv**
+[**Results.csv**](https://www.kaggle.com/datasets/miguswong/ironman-140-6-results-dataset-2002-2024?select=results.csv)
 | Column          | Description                                |
 |-----------------|--------------------------------------------|
 | `bib`           | Bib number of the participant              |
