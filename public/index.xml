@@ -21,12 +21,8 @@
 &lt;p&gt;Ironman race results data was scraped from a &lt;a href=&#34;https://www.coachcox.co.uk/imstats/&#34;&gt;third-party website&lt;/a&gt; for the purpose of EDA. All the data and code used for extracting results data can be found in the following links:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;GitHub Repository&lt;/strong&gt; &lt;a href=&#34;https://github.com/miguswong/IronmanScraper&#34;&gt;here&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Kaggle Dataset&lt;/strong&gt; &lt;a href=&#34;https://www.kaggle.com/datasets/miguswong/ironman-140-6-results-dataset-2002-2024&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;methodology&#34;&gt;Methodology&lt;/h1&gt;
-&lt;p&gt;Web scraping was accomplished mainly through 2 packages within Python:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://beautiful-soup-4.readthedocs.io/en/latest/&#34;&gt;BeautifulSoup4&lt;/a&gt; for statically loaded content.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.selenium.dev/&#34;&gt;Selenium&lt;/a&gt; for dynamic content.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h1 id=&#34;overview-1&#34;&gt;Overview&lt;/h1&gt;
+&lt;p&gt;The following files (mainly the Jupyter notebook and Python script) were used to scrape 140.6 Ironman race results ranging from 2002 to 2024 (as of 12-05-2024). Note,  the data was not scraped from the official Ironman website, but a &lt;a href=&#34;https://www.coachcox.co.uk/imstats/&#34;&gt;proxy-website&lt;/a&gt; not owned by Ironman.&lt;/p&gt;
           
           
         
