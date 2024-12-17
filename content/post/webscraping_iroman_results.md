@@ -12,6 +12,7 @@ thumbnail = "images/ironmanlogo.png"
 
 +++
 
+![Ironman Triathalon Logo](/images/ironmanlogo.png)
 # Overview
 Ironman race results data was scraped from a [third-party website](https://www.coachcox.co.uk/imstats/) for the purpose of EDA. All the data and code used for extracting results data can be found in the following links:
 

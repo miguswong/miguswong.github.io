@@ -17,7 +17,32 @@
       <description>
         
           
-            &lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;Ironman Triathalon Logo&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;http://localhost:1313/images/ironmanlogo.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
 &lt;p&gt;Ironman race results data was scraped from a &lt;a href=&#34;https://www.coachcox.co.uk/imstats/&#34;&gt;third-party website&lt;/a&gt; for the purpose of EDA. All the data and code used for extracting results data can be found in the following links:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;GitHub Repository&lt;/strong&gt; &lt;a href=&#34;https://github.com/miguswong/IronmanScraper&#34;&gt;here&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Kaggle Dataset&lt;/strong&gt; &lt;a href=&#34;https://www.kaggle.com/datasets/miguswong/ironman-140-6-results-dataset-2002-2024&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
