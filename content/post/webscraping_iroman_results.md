@@ -9,6 +9,7 @@ tags = [
     "Sports"
 ]
 thumbnail = "images/ironmanlogo.png"
+featureImage = "images/ironmanlogo.png"
 
 +++
 # Introduction
@@ -17,10 +18,7 @@ Ironman race results data was scraped from a [third-party website](https://www.c
 **GitHub Repository** [here](https://github.com/miguswong/IronmanScraper)\
 **Kaggle Dataset** [here](https://www.kaggle.com/datasets/miguswong/ironman-140-6-results-dataset-2002-2024)
 
-![Ironman Triathalon Logo](/images/ironmanlogo.png)
-
-# Overview
-The following files (mainly the Jupyter notebook and Python script) were used to scrape 140.6 Ironman race results ranging from 2002 to 2024 (as of 12-05-2024). Note,  the data was not scraped from the official Ironman website, but a [proxy-website](https://www.coachcox.co.uk/imstats/) not owned by Ironman. 
+The following files contained in the Github (mainly the Jupyter notebook and Python script) were used to scrape 140.6 Ironman race results ranging from 2002 to 2024 (as of 12-05-2024). Note,  the data was not scraped from the official Ironman website, but a [proxy-website](https://www.coachcox.co.uk/imstats/) not owned by Ironman. 
 
 The notebook and scripts were designed in a way that generated 3 CSVs that follow the format of a standard relational database and can be joined together utilizing various IDs and could be readily uploaded to a SQL database.
 
