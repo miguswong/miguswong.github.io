@@ -13,10 +13,7 @@ author = "Migus Wong"
 Hello, and welcome to my website! I'm Migus Wong; currently a full-time grad student at Northwestern University pursing a [Masters of Science in Data Science](https://sps.northwestern.edu/masters/data-science/).
 
 ## Professional Summary
-Results-driven Data Science graduate student with a strong background in healthcare technology and chemical engineering looking to 
-progress in a machine learning and model-building role while enhancing leadership skills. Proven expertise in customer success, 
-project management, and the implementation of advanced AI technologies leading to over 30% of patient message replies being 
-automatically drafted.
+Results-driven Data Science graduate student with a strong background in healthcare technology (pre and post implementation) and process engineering looking to progress in a machine learning and model-building role while enhancing leadership skills. Proven expertise in customer success, project management, and the implementation of AI-based solutions in clinical settings.
 
 ## Education
  <p style="text-align:left;">
@@ -28,7 +25,7 @@ automatically drafted.
     <span style="float:right;">
         December 2025 (Expected)
     </span>
-    <li>GPA: 3.850</li><li>Specialization in Data Engineering</li><li>Relevant Coursework: Database Systems, Applied Statistics with R, Data Engineering with Go</li>
+    <li>GPA: 3.940</li><li>Specialization in Data Engineering</li><li>Relevant Coursework: Database Systems, Applied Statistics with R, Data Engineering with Go, Practical Machine Learning</li>
 </p>
 <p style="text-align:left;">
     <b>Colorado School of Mines</b>
@@ -51,7 +48,7 @@ intended to convert hemp waste into carbon nanotubes.</li>
 | SQL                      | _Intermediate_ | PostgreSQL                                                        |
 | MS Office                | _Expert_       | Excel, Word, PowerPoint                                           |
 | Tableau                  |                | Data Visualization                                                |
-| Go                       | _Beginner_     |                                                                   |
+| Go                       | _Beginner_     | Concurrent data processing                                        |
 ## Experience
 <p style="text-align:left;">
     <b>Technical Solutions Engineer</b>
@@ -66,9 +63,9 @@ intended to convert hemp waste into carbon nanotubes.</li>
 optimization, and regulatory reporting.</li>
     <li>Organized twice-a-year clinician-focused webinars for over 30 medical specialties. Grew average webinar attendance by 100% 
 over the course of 18 months.</li>
-    <li>Was the customer Success Lead for the company’s Genetics application module. Regularly met with R&D leads and customers to 
-better understand current functionality gaps between Epic and its competitors.</li>
+    <li>Customer Success Lead for the company’s Genetics application module. Regularly met with R&D leads and customers to better understand current functionality gaps between Epic and its competitors.</li>
     <li>Successfully led the implementation and iterative improvement of OpenAI’s GPT- 4o model to aid clinical support staff in responding to patient medical advice requests leading to over a 30% usage of unedited generated messages.</li>
+    <li>Identified, developed, and implemented a solution to correct over 3,000,000 erroneous lab results in time for customer to submit to regulatory bodies.</li>
 </p>
 
 <p style="text-align:left;">
@@ -82,10 +79,11 @@ better understand current functionality gaps between Epic and its competitors.</
     </span>
     <li>Collaborated with other engineers in the precise installation and maintenance of automated metrology gauges used for quality 
 testing in the can manufacturing industry.</li>
-    <li>OTraveled across the country 75% of the time working directly with line technicians as well as operational leadership.</li>
+    <li>Traveled across the country 75% of the time working directly with line technicians as well as operational leadership.</li>
+    
 </p>
 
 ## Additional Information
 * **Core Competencies:** Project Management, Strong Leadership and team member skills, Decision Analytics; Statistical 
 Knowledge, Customer Service, Escalation management/ Prioritization 
-* **Interests:** Travel Experiences; Overall Fitness (Running, Powerlifting, Swimming), Chess, Lifelong learning, SCUBA Diving 
+* **Interests:** Travel Experiences; Fitness (Running, Triathlons, Powerlifting), Lifelong learning, PADI Open Water Diver 
