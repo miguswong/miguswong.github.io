@@ -7,7 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>MIGUS WONG</copyright>
-    <lastBuildDate>Thu, 12 Dec 2024 14:48:13 -0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Dec 2024 14:15:07 -0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ironman Triathalon Data - Market Insights</title>
+      <link>http://localhost:1313/post/ironmandataanalysis/</link>
+      <pubDate>Fri, 20 Dec 2024 14:15:07 -0600</pubDate>
+      
+      <guid>http://localhost:1313/post/ironmandataanalysis/</guid>
+      <description>
+        
+          
+            &lt;!-- TOC --&gt;&lt;a name=&#34;project-background&#34;&gt;&lt;/a&gt;
+&lt;h2 id=&#34;project-background&#34;&gt;Project Background&lt;/h2&gt;
+&lt;p&gt;The goal of this project is to investigate Ironman 140.6 race/performance data in order to provide recommendations on potential future budget marketing strategies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The IRONMAN Group&lt;/strong&gt; is a global organization that operates a wide range of endurance sports events. They are best known for their IRONMAN Triathlon Series, which includes full-distance and half-distance triathlons. The full IRONMAN race consists of a 2.4-mile swim, a 112-mile bike ride, and a 26.2-mile marathon run. This group is owned by Advance, a private, family-owned business, and Orkila Capital, a growth equity firm. They have grown significantly since their inception in 1978 and now host events in over 55 countries.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Webscraping Ironman Triathalon Results</title>
       <link>http://localhost:1313/post/webscraping_iroman_results/</link>
